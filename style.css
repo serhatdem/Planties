@@ -2,6 +2,7 @@ body {
   background: #f06500;
   background-image: url(/images/IMG_2067.PNG);
   background-size: cover;
+  justify-content: center;
 }
 
 img {
