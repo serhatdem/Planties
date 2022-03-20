@@ -11,4 +11,5 @@ img {
   width: fit-content;
   margin: 200px;
   margin-top: 50px;
+  display: flex;
 }
