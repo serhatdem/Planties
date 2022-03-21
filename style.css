@@ -6,11 +6,9 @@ body {
 }
 
 img {
+  margin-top: 7vh;
   border: 22px solid #7c1414;
-  box-sizing: fill;
-  border-radius: 99px;
-  width: fit-content;
-  margin: 200px;
-  margin-top: 50px;
-  display: flex;
+  border-radius: 15vh;
+  box-sizing: cover;
+  width: 130vh;
 }
