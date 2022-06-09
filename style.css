@@ -1,0 +1,52 @@
+body{
+    background-color: #cdff07;
+    background-image: url(/img/Arkaplan.png) ;
+    background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat; background-size: cover;
+}
+
+
+
+#TEAM {
+
+    margin-top: 9rem;
+}
+
+
+#ROADMAP {
+
+    margin-top: 9rem;
+}
+
+#ABOUT {
+
+    margin-top: 9rem;
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+    #TEAM {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    
+    
+    #ROADMAP {
+    
+        margin-left: 2rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    
+    #ABOUT {
+    
+        margin-left: 2rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    
+
+  }
