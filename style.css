@@ -1,0 +1,186 @@
+body{
+    background-color: #cdff07;
+    background-image: url(/img/Arkaplan.png) ;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+
+
+#TEAM {
+
+    margin-top: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+
+#ROADMAP {
+
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+
+#R-HEAD {
+      
+    margin-top: 18%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#R-HEAD img {
+    width: 30vw;
+
+}
+
+#T-HEAD img { width: 30vw;}
+
+#S-HEAD img {
+    width: 30vw;
+}
+
+#T-HEAD {
+
+    margin-top: 18%;
+    
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#ABOUT {
+
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+
+}
+
+#FOOTER {
+
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+
+}
+
+
+#LINKS {
+    
+   margin-bottom: 35vw;
+    position: absolute;
+    margin-left: 20vw;  
+
+}
+    
+
+
+.discord {
+    max-width: 10vw;
+}
+
+.lll {
+    margin-left: 3.5vw;
+    opacity: 0;
+
+}
+
+.social-k {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 66%;
+   
+}
+.social-k img { 
+    width: 3vw;
+    
+}
+
+.social-k a {
+    margin: 1%;
+}
+.social-l {
+
+    margin-bottom: 66%;
+}
+
+.social-l img{
+    width: 3vw;
+    
+}
+
+.lll img {
+    width: 7.5vw;
+
+}
+
+#RIGHTS {
+
+    margin-bottom: 2%;
+}
+
+
+.social-k img:hover{
+
+    transform: scale(1.3);
+    
+}
+
+.social-l img:hover{
+    transform: scale(1.3);
+
+}
+
+@media (min-width: 250px) and (max-width: 600px) {
+  
+    .social-k a {
+        margin-top: -1vh;
+        
+    }
+    
+ .social-l {
+    margin-bottom: 68%;
+ }
+ .social-k {
+    margin-bottom: 64%;
+ }
+  }
+
+
+
+  @media (min-width: 1900px) and (max-width: 2500px) {
+  
+   
+  
+ .social-l {
+    margin-bottom: 63%;
+ }
+ .social-k {
+    margin-bottom: 63%;
+ }
+  }
+
+
+
+  @media (min-width: 2000px) and (max-width: 2560px) {
+  
+
+  
+    .social-l {
+       margin-bottom: 60%;
+    }
+    .social-k {
+       margin-bottom: 60%;
+    }
+     }
+
+  
+
+    
